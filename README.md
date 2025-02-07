@@ -13,8 +13,11 @@
 <h2 align="center">📈 My Github History!</h2>
 <div align="center">
 
-  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&theme=radical)
+
+  <a href="https://github.com/ArthurBrandino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
   ![snake gif](https://github.com/ArthurBrandino/ArthurBrandino/blob/output/github-snake-dark.svg)
 
 </div>
