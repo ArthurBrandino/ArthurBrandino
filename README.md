@@ -14,7 +14,7 @@
 <div align="center">
 
   ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandin&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&theme=radical)
   ![snake gif](https://github.com/ArthurBrandino/ArthurBrandino/blob/output/github-snake-dark.svg)
 
 </div>
