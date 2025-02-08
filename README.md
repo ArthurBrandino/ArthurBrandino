@@ -1,6 +1,8 @@
 <div align="center"> 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7413D&width=435&lines=Hello+World!+I%E2%80%99m+Arthur+Brandino.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=+Hello%2C+World!+I'm+Arthur+Brandino.;+Ol%C3%A1%2C+Mundo!+Eu+sou+Arthur+Brandino.)](https://git.io/typing-svg)
+  <br>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
   
 </div>
 
