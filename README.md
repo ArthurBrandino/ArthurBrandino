@@ -16,14 +16,24 @@
 </p>
 </div>
 
-<h2 align="center">📈 My Github History!</h2>
+<h2 align="center">📫 Contact with me 📫</h2> 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-almeida-brandino)
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurbrandino07@gmail.com) 
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/CS3eSrMB) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ggzin)
+  
+</div>
+
+<h2 align="center"> 📊 GitHub Stats!</h2>
 <div align="center">
 
 
   <a href="https://github.com/ArthurBrandino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <br> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=radical&hide_border=false"/>
     
   ![snake gif](https://github.com/ArthurBrandino/ArthurBrandino/blob/output/github-snake-dark.svg)
-
 </div>
