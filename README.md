@@ -47,9 +47,10 @@
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+              srcset="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1">
       <img height="180em" 
-           src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+           src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=default&include_all_commits=true&count_private=true&v=1" 
+           alt="GitHub Stats">
     </picture>
     <br>
     <picture>
