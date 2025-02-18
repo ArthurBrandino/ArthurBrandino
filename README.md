@@ -1,8 +1,18 @@
 <div align="center"> 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=+Hello%2C+World!+I'm+Arthur+Brandino.;+Ol%C3%A1%2C+Mundo!+Eu+sou+Arthur+Brandino.)](https://git.io/typing-svg)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=+Hello%2C+World!+I'm+Arthur+Brandino.;+Ol%C3%A1%2C+Mundo!+Eu+sou+Arthur+Brandino.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=1F77C1&center=true&vCenter=true&width=435&lines=+Hello%2C+World!+I'm+Arthur+Brandino.;+Ol%C3%A1%2C+Mundo!+Eu+sou+Arthur+Brandino." 
+         alt="Typing SVG">
+  </picture>
   <br>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F76EAB&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo+ao+meu+perfil+do+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=1F77C1&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo+ao+meu+perfil+do+GitHub!" 
+         alt="Typing SVG">
+  </picture>
   
 </div>
 
@@ -28,12 +38,30 @@
 
 <h2 align="center"> 📊 GitHub Stats!</h2>
 <div align="center">
-
-
-  <a href="https://github.com/ArthurBrandino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=radical&hide_border=false"/>
-    
-  ![snake gif](https://github.com/ArthurBrandino/ArthurBrandino/blob/output/github-snake-dark.svg)
+  <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical">
+      <img height="180em" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=default" 
+           alt="Linguagens mais usadas">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+      <img height="180em" 
+           src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    </picture>
+    <br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=radical&hide_border=false">
+      <img height="180em" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=default&hide_border=false" 
+           alt="GitHub Streak">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
+    </picture>
 </div>
