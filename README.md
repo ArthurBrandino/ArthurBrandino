@@ -37,32 +37,7 @@
 </div>
 
 <h2 align="center"> 📊 GitHub Stats!</h2>
-<div align="center">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical">
-      <img height="180em" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=default" 
-           alt="Linguagens mais usadas">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1">
-      <img height="180em" 
-           src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=default&include_all_commits=true&count_private=true&v=1" 
-           alt="GitHub Stats">
-    </picture>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=radical&hide_border=false">
-      <img height="180em" 
-           src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=default&hide_border=false" 
-           alt="GitHub Streak">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
-    </picture>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170">
+</p>
