@@ -35,9 +35,3 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ggzin)
   
 </div>
-
-<h2 align="center"> 📊 GitHub Stats!</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170">
-</p>
