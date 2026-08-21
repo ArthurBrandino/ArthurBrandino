@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -23,7 +23,6 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-</p>
 </div>
 
 <h2 align="center">📫 Contact with me 📫</h2> 
@@ -36,37 +35,12 @@
   
 </div>
 
-<h2 align="center"> 📊 GitHub Stats!</h2>
+<br>
+
 <div align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=radical">
-      <img height="180em" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&langs_count=7&theme=default" 
-           alt="Linguagens mais usadas">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1">
-      <img height="180em" 
-           src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=default&include_all_commits=true&count_private=true&v=1" 
-           alt="GitHub Stats">
-    </picture>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=radical&hide_border=false">
-      <img height="180em" 
-           src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBrandino&theme=default&hide_border=false" 
-           alt="GitHub Streak">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
-    </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ArthurBrandino/ArthurBrandino/output/github-snake.svg" />
+  </picture>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurBrandino&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrandino&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170">
-</p>
